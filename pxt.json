@@ -1,0 +1,24 @@
+{
+    "name": "pxt-plenbit",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "plenbit.ts",
+        "_locales/ja/pxt-plenbit-strings.json",
+        "_locales/ja/pxt-plenbit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "yotta": {
+        "config": {}
+    },
+    "installedVersion": "workspace:e8c1344d-cc0e-4872-23e3-0261a1fb12c7"
+}
