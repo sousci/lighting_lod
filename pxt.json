@@ -1,5 +1,5 @@
 {
-    "name": "lighting_lod",
+    "name": "pxt-lightinglod",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -9,7 +9,9 @@
     "files": [
         "README.md",
         "main.ts",
-        "lighting_lod.ts",
+        "lightinglod.ts",
+        "_locales/ja/pxt-lightinglod-strings.json",
+        "_locales/ja/pxt-lightinglod-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
