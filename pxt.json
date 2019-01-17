@@ -1,5 +1,5 @@
 {
-    "name": "pxt-plenbit",
+    "name": "lighting_lod",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "plenbit.ts",
+        "lighting_lod.ts",
         "_locales/ja/pxt-plenbit-strings.json",
         "_locales/ja/pxt-plenbit-jsdoc-strings.json"
     ],
