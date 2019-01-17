@@ -10,8 +10,6 @@
         "README.md",
         "main.ts",
         "lighting_lod.ts",
-        "_locales/ja/pxt-plenbit-strings.json",
-        "_locales/ja/pxt-plenbit-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
